@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="strheight">身高</string>
+    <string name="strname">姓名</string>
+    <string name="strnextpage">下一頁</string>
+    <string name="strsubmit">確認</string>
+    <string name="strweight">體重</string>
+    <string name="strshowbmi">你的BMI是</string>
+    <string name="strstd">體重正常</string>
+    <string name="strtooLow">體重過輕</string>
+    <string name="strtoohigh">體重過重</string>
+</resources>
