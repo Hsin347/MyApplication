@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
         a = findViewById(R.id.editText2);
         h = (EditText) findViewById(R.id.editText3);
         w = (EditText) findViewById(R.id.editText4);
+        //ss
     }
 
     public void show(View view) {
