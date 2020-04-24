@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText h;
     private EditText w;
     private EditText a;
-    private EditText o;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,7 +29,6 @@ public class MainActivity extends AppCompatActivity {
         a = findViewById(R.id.editText2);
         h = (EditText) findViewById(R.id.editText3);
         w = (EditText) findViewById(R.id.editText4);
-
     }
 
     public void show(View view) {
